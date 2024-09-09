@@ -1,14 +1,14 @@
 # teste-vox
-Desafio Técnico Vox Tecnologia
+#Desafio Técnico Vox Tecnologia
 
-Projeto de Automação de Testes com Cypress
+## Projeto de Automação de Testes com Cypress
 
 Este projeto envolve a criação de uma suíte de testes automatizados utilizando o framework Cypress, com o intuito de garantir a qualidade e confiabilidade das principais funcionalidades de uma aplicação web, especialmente no contexto de um site de e-commerce. A automação abrange cenários essenciais, como o fluxo de login, navegação e visualização de produtos, adição e remoção de itens no carrinho de compras, além da finalização do pedido.
 
 Através de uma abordagem eficiente, os testes validam interações com a interface, verificam a integridade dos dados e simulam o comportamento dos usuários. Com o Cypress, é possível executar os testes rapidamente em diferentes ambientes, assegurando que a aplicação continue estável e funcional a cada nova atualização.
 
 
-Estrutura dos Testes Realizados
+## Estrutura dos Testes Realizados
 O teste foi organizado com diferentes estruturas de describe, totalizando 5 como o teste solicitou.
 1. Login
 2. Visualização de Produtos
@@ -17,7 +17,7 @@ O teste foi organizado com diferentes estruturas de describe, totalizando 5 como
 5. Finalizar Compra
 
 
-Testes realizados de maneira Headless:
+## Testes realizados de maneira Headless:
 ![image](https://github.com/user-attachments/assets/46a97b0e-5cd3-4c3a-abd3-c8c396b8b6c4)
 
 GHERKIN - BDD

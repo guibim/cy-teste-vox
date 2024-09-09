@@ -22,10 +22,10 @@ O teste foi organizado com diferentes estruturas de describe, totalizando 5 como
 
 ## GHERKIN - BDD
 ### 1 - Login
-- Funcionalidade: Autenticação de Usuário
-- Para acessar o sistema
-- Sendo um usuário registrado 
-- Eu preciso ser capaz de realizar o login com meinhas credenciais
+ *** Funcionalidade: Autenticação de Usuário
+ Para acessar o sistema
+ Sendo um usuário registrado 
+ Eu preciso ser capaz de realizar o login com meinhas credenciais ***
 
 Cenário: Login Válido
 - Given que o usuário está na página inicial de login

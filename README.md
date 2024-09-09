@@ -41,10 +41,10 @@ Cenário: Login Inválido
 
 
 ### 2 - Visualização de Produtos
-- Funcionalidade:  Visualiza a lista de produtos disponíveis 
-- Para verificar os produtos
-- Sendo um usuário registrado
-- Preciso visualizar os produtos disponíveis
+- Funcionalidade:  Visualiza a lista de produtos disponíveis  <br />
+- Para verificar os produtos <br />
+- Sendo um usuário registrado <br />
+- Preciso visualizar os produtos disponíveis <br />
 
 
 - Cenário: Visualização de Produtos
@@ -54,10 +54,10 @@ Cenário: Login Inválido
 
 
 ### 3 - Adicionar ao carrinho
-- Funcionalidade: Adiciona itens ao carrinho de compras
-- Para realizar a compra de produtos
-- Sendo um usuário registrado
-- Preciso adicionar itens ao carrinho de compras com sucesso
+- Funcionalidade: Adiciona itens ao carrinho de compras <br />
+- Para realizar a compra de produtos <br />
+- Sendo um usuário registrado <br />
+- Preciso adicionar itens ao carrinho de compras com sucesso <br />
 
 Cenário: Adicionar itens ao carrinho
 - Given O usuário está logado
@@ -68,10 +68,10 @@ Cenário: Adicionar itens ao carrinho
 - Then O Texto de "ADD TO CART" dos itens adicionados se torna "REMOVE"
 
 ### 4 - Remove itens do carrinho
-- Funcionalidade: Remove itens do carrinho de compra
-- Para alterar meu pedido
-- Sendo um usuário registrado
-- Preciso retirar itens do carrinho
+- Funcionalidade: Remove itens do carrinho de compra <br />
+- Para alterar meu pedido <br />
+- Sendo um usuário registrado <br />
+- Preciso retirar itens do carrinho <br />
 
 - Given O usuário está logado
 - When O usuário acessa a pagina principal da loja
@@ -82,10 +82,10 @@ Cenário: Adicionar itens ao carrinho
 
 
 ### 5 - Finalizar compra
-- Funcionalidade: Realiza uma compra com sucesso
-- Para concluir uma compra
-- Sendo um usuário registrado
-- Preciso passar por todos os processos até a finalização do pedido.
+- Funcionalidade: Realiza uma compra com sucesso <br />
+- Para concluir uma compra <br />
+- Sendo um usuário registrado <br />
+- Preciso passar por todos os processos até a finalização do pedido. <br />
 
 
 - Given O usuário esta logado

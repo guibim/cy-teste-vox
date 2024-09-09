@@ -1,5 +1,5 @@
-# teste-vox
-#Desafio Técnico Vox Tecnologia
+
+Desafio Técnico Vox Tecnologia
 
 ## Projeto de Automação de Testes com Cypress
 
@@ -22,10 +22,10 @@ O teste foi organizado com diferentes estruturas de describe, totalizando 5 como
 
 ## GHERKIN - BDD
 ### 1 - Login
- *** Funcionalidade: Autenticação de Usuário
- Para acessar o sistema
- Sendo um usuário registrado 
- Eu preciso ser capaz de realizar o login com meinhas credenciais ***
+ Funcionalidade: Autenticação de Usuário <br />
+ Para acessar o sistema <br />
+ Sendo um usuário registrado  <br />
+ Eu preciso ser capaz de realizar o login com meinhas credenciais  <br />
 
 Cenário: Login Válido
 - Given que o usuário está na página inicial de login
